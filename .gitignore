@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+*.md
+!README.md
+
 # Compiled Object files
 *.slo
 *.lo
